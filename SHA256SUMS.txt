@@ -1,0 +1,5 @@
+1ff8d345fd6ed4a46ce2016bc379df29c1b42b5dd55b484e336f1e3057902a46  downloads/GPT-maiden-pet-v2.zip
+4fa5fc9dc456b3a9349180ba92f3dd272980b02d6d85745a246f7abc1ca24372  downloads/GPT-maiden-Blender-project.zip
+c307ed4e9415fb8797238f8343a7a863a1cb974f9496e22d7425136505011a68  assets/spritesheet-extended.png
+04a5a8b08292e41baf931e0b24e72eaedc4e8aded170190e63bc78db50d71949  previews/idle-look-switch.gif
+e993658b54c95e7d9019e96970882007db8a3676464f4413ee0e904b1e723510  previews/idle-look-switch.mp4

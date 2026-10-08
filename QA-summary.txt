@@ -1,0 +1,7 @@
+GPT娘 v2 — idle / look proportion update (2026-10-04)
+Atlas: 1536 x 2288 RGBA PNG; 8 columns x 11 rows; 192 x 208 cells.
+73 populated frames and 15 transparent cells. Nine standard animation states and sixteen look directions.
+Atlas SHA256: c307ed4e9415fb8797238f8343a7a863a1cb974f9496e22d7425136505011a68
+The Oct 4 production checks recorded unchanged nine action rows, updated look rows, native-size comparisons and a valid Pets preflight. These are historical validation records, not a guarantee of compatibility with every client version.
+This public package preserves the atlas bytes; documentation was cleaned for public distribution.
+No frame interpolation or crossfade was added to the pet. Editable source is a 2D sprite timeline, not a rigged 3D character.
